@@ -1,0 +1,6 @@
+animal  cuteness    coolness
+----------------------------
+cat     kinda-cute  pree-cool
+dog     pree-cute   pree-cool
+puppy   too-cute    dece-cool
+zorilla cute        xmazing
