@@ -1,0 +1,16 @@
+./allFileNames.txt
+./find-duplicate-filenames.sh
+./allFilePaths.txt
+./data/file.txt
+./data/test/somefiles/file20.txt
+./data/test/anotherfile.txt
+./data/test/duplicate2.txt
+./data/train/zorillas/duplicate1.txt
+./data/train/zorillas/zorilla.txt
+./data/train/xmazing/chocolatemilk.txt
+./data/train/xmazing/dog.txt
+./data/train/xmazing/duplicate1.txt
+./data/train/xmazing/zorilla.txt
+./data/train/xmazing/icecream.txt
+./data/train/duplicate2.txt
+./data/train/duplicate1.txt
